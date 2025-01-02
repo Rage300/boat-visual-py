@@ -4,9 +4,9 @@ import os
 import math
 
 #Parameters
-file_name = r'C:\Users\rage3\OneDrive\Documents\BoatGraphProgram\sailboat_data.txt'
-data_file_path = r'C:\Users\rage3\OneDrive\Documents\BoatGraphProgram\sailboat_data.txt'
-img_dir = r'C:\Users\rage3\OneDrive\Documents\BoatGraphProgram'
+file_name = 'sailboat_data.txt'
+data_file_path = 'sailboat_data.txt'
+img_dir = 'img'
 inputDelay = 50
 SCREEN_WIDTH = 1200
 SCREEN_HEIGHT = 600
